@@ -46,7 +46,9 @@ nas. Existen pasarelas que convierten RS232 a TCP/IP para supervisi´on y contro
 ---
 
 ## 🍓 3. Exploración de la Raspberry Pi 3 Modelo B
-Se exploraron los pines de la **Raspberry Pi 3B** (alimentación, TX, RX, GPIO) y se realizaron pruebas prácticas.  
+Se exploraron los pines de la **Raspberry Pi 3B** (alimentación, TX, RX, GPIO) y se realizaron pruebas prácticas. 
+
+<h2><p align="center"> <b> <img width="365" height="212" alt="image" src="https://github.com/user-attachments/assets/b466f781-1644-4249-bca8-e8766a4c290a" /> </b> </h2>
 
 ### 🖥️ Instalación de Raspbian
 1. Descargar imagen oficial de **Raspberry Pi OS (32 bits)**.  
