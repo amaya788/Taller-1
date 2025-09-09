@@ -32,9 +32,16 @@ En transmisión de datos es fundamental garantizar la integridad. Se estudiaron 
 ## 🔌 2. Tecnologías actuales con RS232
 Aunque RS232 es un estándar antiguo, sigue siendo útil en aplicaciones modernas:  
 
-- **Conversión RS232 ↔ USB:** con chips como **FTDI FT232** o **Prolific PL2303**.  
-- **Aislamiento galvánico:** uso de **optoacopladores** para proteger equipos sensibles.  
-- **Integración con IoT:** gateways convierten **RS232 ↔ TCP/IP**, habilitando control remoto y supervisión industrial.  
+- **Conversión RS232 ↔ USB:** mediante circuitos integrados como el FTDI FT232 o
+ el Prolific PL2303, es posible conectar dispositivos RS232 a computadores modernos
+ que ya no incluyen puertos serie..  
+- **Aislamiento galvánico:** para proteger equipos sensibles frente a ruidos
+ el´ectricos o sobretensiones, se emplean optoacopladores y aisladores digitales. Este
+ tipo de tecnolog´ıas es frecuente en aplicaciones m´edicas e industriales.  
+- **Integración con IoT:** gateways convierten **RS232 ↔ TCP/IP**, muchos dispositivos
+ industriales que utilizan RS232 han sido complementados con m´odulos de red como
+ Ethernet, WiFi o Bluetooth, permitiendo la comunicaci´on con plataformas moder
+nas. Existen pasarelas que convierten RS232 a TCP/IP para supervisi´on y control.  
 
 ---
 
